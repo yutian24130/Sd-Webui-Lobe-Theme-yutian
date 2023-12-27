@@ -1,3 +1,6 @@
+这个项目是自用的
+项目原链接:https://github.com/lobehub/sd-webui-lobe-theme
+
 <a name="readme-top"></a>
 
 <div align="center">
